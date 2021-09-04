@@ -1,2 +1,2 @@
-# Ruta de Prendisaje
+# Learning Route
 

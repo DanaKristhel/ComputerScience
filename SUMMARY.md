@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ruta de Prendisaje](README.md)
+* [Learning Route](README.md)
 
 ## English
 
