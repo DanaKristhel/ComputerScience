@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Ruta de Prendisaje](README.md)
+
+## English
+
+* [Apa Rules](english/untitled.md)
 
 ## Online Education Strategies
 
-* [Untitled](online-education-strategies/untitled.md)
+* [1 Week](online-education-strategies/untitled.md)
 
 ## PROGRAMMING FUNDAMENTALS PY
 
 * [Untitled](programming-fundamentals-py/untitled.md)
-
-## English
-
-* [Untitled](english/untitled.md)
 
